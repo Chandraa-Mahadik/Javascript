@@ -86,3 +86,4 @@ console.log(0 === "0"); // false
 console.log(0 == "0"); // true (not recommended)
 
 // Avoid relying on type coercion in complex expressions
+
